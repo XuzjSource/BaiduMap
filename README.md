@@ -13,3 +13,5 @@ AndroidMainfest.xml
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:clickable="true" />
+        
+    android 显示HTML文本，异步处理图片请求<src>
